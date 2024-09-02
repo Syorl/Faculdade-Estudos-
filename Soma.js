@@ -1,3 +1,3 @@
-let n = 1+2;
+let n = 2+2;
 
 console.log(n);
